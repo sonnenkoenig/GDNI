@@ -1,0 +1,412 @@
+<resources>
+    <string name="app_name">SmartNews</string>
+    <string name="STR_ABOUT_HEADER">Hinweis</string>
+    <string name="STR_ABOUT_TEXT"><![CDATA[
+Die Beefeed-App ist ein von der Google Digital News Intiative gefördertes Pilotprojekt.\n
+ \n
+Mit Download der App nehmen Sie an diesem Projekt teil, wofür wir jetzt schon herzlich danken.\n
+Bitte beachten Sie folgende Hinweise:\n
+\n
+- Benutzerführung, Design und Verhalten der App sind zugunsten des Testszenarios nicht optimiert worden, bitte haben Sie hier Nachsicht. Dass sich die Datenschutzerklärung nicht "wegklicken" läßt, ist diesem Umstand beispielsweise geschuldet.\n
+\n
+- im Pilotprojekt testen wir nur die Interaktion mit Benachrichtigungen. Die App hält entsprechend die schon versendeten Artikel nicht vorrätig.\n
+\n
+- Nachrichten, die älter als 12 Stunden sind, werden nicht mehr zugestellt, es werden dann nur die Datenschutzbestimmungen angezeigt, keine Nachrichten.\n
+\n
+- es handelt sich nicht um eine News-App im klassischen Sinne, die zur Information des Lesers beitragen will. Vielmehr testen wir in den nächsten vier bis acht Wochen, wie mit Hilfe von intelligenten Benachrichtigungen die Interaktion des Lesers mit mobilen Nachrichten gesteigert werden kann.\n
+\n
+Unter allen Teilnehmern verlosen wir ein iPad oder ein gleichwertiges Android-Tablet, je nach Präferenz des Gewinners. Alle Daten werden anonym erhoben und ausgewertet!\n
+\n
+]]></string>
+    <string name="STR_PRIVACY_POLICY_HEADER">Datenschutzerklärung</string>
+    <string name="privacy_policy"><![CDATA[
+Die Internetauftritte der Heilbronner Stimme, d.h. die Webseite Stimme.de und die sonstigen Internetportale unter der Dachmarke Stimme.de (z.B. Immostimme, Jobstimme, Autostimme, u.a.) werden von der Unternehmensgruppe der Heilbronner Stimme GmbH & Co.KG http://www.stimme.de betrieben.\n
+\n
+Im Rahmen der Nutzung unseres Internetangebots werden personenbezogene Daten erhoben, genutzt oder verarbeitet. Personenbezogene Daten werden vom Gesetzgeber als Einzelangaben über persönliche und sachliche Verhältnisse einer bestimmten oder bestimmbaren natürlichen Person bezeichnet.\n
+\n
+Den Schutz Ihrer personenbezogenen Daten nehmen wir sehr ernst. Bei der Erhebung, Verarbeitung und Nutzung Ihrer personenbezogenen Daten halten wir uns an die Vorgaben des Bundesdatenschutz- und Telemediengesetzes.\n
+\n
+Nachfolgend informieren wir Sie über die Erhebung, die Verarbeitung und die Nutzung Ihrer personenbezogenen Daten, wenn Sie die Internetauftritte der Unternehmensgruppe Heilbronner Stimme besuchen und die dort angebotenen Services und Dienstleistungen nutzen.\n
+\n
+Speicherung von Zugriffsdaten beim Aufrufen unserer Internetauftritte\n
+\n
+Bei jedem Ansteuern unserer Internetauftritte werden Zugriffsdaten in einer Protokolldatei auf dem Server unseres Providers gespeichert.\n
+\n
+Dieser Datensatz besteht aus Ihrer IP-Adresse, Datum und Uhrzeit der Anforderung, dem Namen der angeforderten Datei und dem Dateinamen, von dem aus die Datei angefordert wurde, der übertragenen Dateimenge und dem Zugriffstatus, einer Beschreibung des verwendeten Webbrowsers und Betriebssystems sowie dem Namen Ihres Internetproviders.\n
+\n
+Die Erhebung dieser Daten ist aus technischen Gründen erforderlich.\n
+Auswertungen finden ausschließlich anonym zu statistischen Zwecken und ohne Personenbezug statt.\n
+\n
+Nutzung des Aboservice unseres Internetauftritts\n
+\n
+Wenn Sie unseren Online Abo & Leserservice nutzen möchten, müssen Sie sich auf unserer Webseite registrieren. Hierbei werden die folgenden Daten von Ihnen erhoben:\n
+Benutzername\n
+Passwort\n
+E-Mail Adresse\n
+Soweit bereits vorhanden: Kundennummer\n
+Anrede\n
+Vor- und Nachname\n
+Anschrift\n
+Telefonnummer\n
+Informationen zur beabsichtigten Zahlungsweise (Bank- und Kontodaten)\n
+Handynummer (optional)\n
+Geburtsdatum (optional)\n
+\n
+Diese Daten sind erforderlich, um den Zugang und den Support unserer personalisierten Dienste zu ermöglichen, insbesondere zur Erbringung unseres Zeitungsservices.\n
+\n
+Im Rahmen der Dienstleistungserbringung kann es darüber hinaus erforderlich sein Ihre persönlichen Daten an dritte Unternehmen weiterzugeben, die wir zur Erbringung der Dienstleistung einsetzen, wie z.B. Transportunternehmen.\n
+\n
+Nutzung des Anzeigenservices Salespoint unseres Internetauftritts\n
+\n
+alfa Media Partner GmbH\n
+Carl-Zeiss-Straße 27 \n
+63322 Rödermark \n
+\n
+Wenn Sie unseren bereitgestellten Online-Anzeigenservice nutzen möchten müssen Sie sich über das von uns genutzte Portal Salespoint registrieren. Hierbei werden bei der Erstanmeldung folgende Daten von Ihnen erhoben:\n
+Benutzername\n
+E-Mail-Adresse\n
+Passwort\n
+Persönliches Bild (optional)\n
+\n
+Sofern Sie über unser Portal eine Anzeige schalten möchten, erheben wir ergänzend die folgenden Daten von Ihnen:\n
+Vor- und Nachname\n
+Anschrift\n
+Telefonnummer (optional)\n
+Handynummer (optional)\n
+Telefaxnummer (optional)\n
+Geburtsdatum\n
+Informationen zur beabsichtigten Zahlungsweise(Bank- und Kontodaten)\n
+\n
+Diese Daten sind erforderlich um den Zugang und den Support unserer personalisierten Dienste zu ermöglichen, insbesondere zur Erbringung unseres Anzeigenservices.\n
+\n
+Zur Erfüllung unseres Anzeigenservices kann es erforderlich sein, dass wir Ihre Daten an Drittunternehmen weitergeben, wie z.B. an das IT-Unternehmen, dass uns bei der technischen Umsetzung des Anzeigenservices unterstützt.\n
+\n
+Nutzung unseres Webshops\n
+\n
+Zur Nutzung unseres Webshops müssen Sie sich über unsere Internetseite Stimme Shop anmelden. Hierbei werden bei der Erstanmeldung folgende Daten von Ihnen erhoben:\n
+Vor- und Nachname\n
+E-Mail-Adresse\n
+Telefonnummer (optional)\n
+Telefax (optional)\n
+Anschrift\n
+Passwort\n
+\n
+Sofern Sie über unseren Onlineshop Einkäufe tätigen möchten, erheben wir ergänzend die folgenden personenbezogenen Daten von Ihnen:\n
+Informationen zur beabsichtigten Zahlungsweise (Lastschrift, Paypall, Rechnung)\n
+\n
+Diese Daten sind erforderlich um den Zugang und den Support unserer personalisierten Dienste zu ermöglichen, insbesondere zur Erbringung unseres Online-Shop-Services.\n
+\n
+Im Rahmen der Dienstleistungserbringung kann es darüber hinaus erforderlich sein Ihre persönlichen Daten an Unternehmen weiterzugeben, die wir zur Erbringung der Dienstleistung einsetzen, wie z.B. Transportunternehmen, damit Ihnen die bestellte Ware ausgeliefert werden kann.\n
+\n
+Nutzung unseres Kontaktformulars/Leserbriefformulars\n
+\n
+Sofern Sie uns über eines unserer Online-Kontaktformulare erreichen möchten oder uns einen Online-Leserbrief zusenden möchten, ist hierbei die Angabe folgender personenbezogener Daten erforderlich:\n
+Name\n
+Telefonnummer\n
+E-Mail-Adresse\n
+Anschrift (nur bei Leserbrief)\n
+\n
+Diese Daten sind erforderlich damit wir Ihnen Ihre Anfragen persönlich beantworten können sowie um unseriöse Anfragen und Leserbriefe auszuschließen. Anonyme Veröffentlichungen von Leserbriefen sind nicht möglich.\n
+\n
+Teilnahme an Gewinnspielen\n
+\n
+Bei der Teilnahme an Gewinnspielen im Rahmen unseres Onlineangebots erheben wir folgende personenbezogene Daten von Ihnen:\n
+Vor-und Nachname\n
+Anschrift\n
+E-Mail-Adresse\n
+Telefon (optional)\n
+Geburtstag (optional)\n
+\n
+Diese Daten benötigen wir zur Durchführung des Gewinnspiels. Im Rahmen der Durchführung eines Gewinnspiels kann es darüber hinaus erforderlich sein, Ihre persönlichen Daten an Drittunternehmen weiterzugeben\n
+\n
+Werbliche Nutzung Ihrer Daten\n
+\n
+Sofern Sie einer werblichen Nutzung Ihrer Daten ausdrücklich zugestimmt haben oder aber die werbliche Ansprache auch ohne Ihre Einwilligung rechtlich zulässig ist, nutzen wir Ihre Daten auch zum Zwecke der Werbung und zur Optimierung unseres Angebots.\n
+\n
+Widerruf der Einwilligung/Werbewiderspruch\n
+\n
+Sofern Sie einer werblichen Nutzung Ihrer Daten ausdrücklich zugestimmt haben, können Sie diese Einwilligung jederzeit durch eine E-Mail an widerspruch_datenschutz@stimme.de oder aber schriftlich an Heilbronner Stimme GmbH & Co. KG, Kennwort: Widerspruch, Allee 2, 74072 Heilbronn widerrufen.\n
+\n
+Sofern wir Ihre postalische Anschrift oder Ihre E-Mail-Adresse aufgrund rechtlicher Zulässigkeit zur werblichen Ansprache nutzen, können Sie jederzeit durch eine E-Mail an widerspruch_datenschutz@stimme.de oder schriftlich an \n
+\n
+Heilbronner Stimme GmbH & Co. KG\n
+Kennwort: Widerspruch\n
+Allee 2\n
+74072 Heilbronn\n
+\n
+widersprechen. Der Widerspruch ist kostenlos.\n
+\n
+Verwendung des Facebook „Gefällt mir“-Button\n
+\n
+Auf unseren Internetseiten sind Plugins des sozialen Netzwerks Facebook eingebunden welches von der Facebook Ireland Ltd., Hanover Reach, 5-7 Hanover Quay, Dublin 2 Ireland betrieben wird. Die Plugins erkennen Sie an dem Facebook-Logo.\n
+\n
+Wenn Sie eine unserer Seiten besuchen, die ein solches Plugin enthält, baut Ihr Browser eine direkte Verbindung mit den Servern von Facebook auf. Facebook erhält dadurch die Information, dass Sie mit Ihrer IP-Adresse unsere Internet-Seite besucht haben. Wenn Sie bei Facebook eingeloggt sind, kann Facebook den Besuch Ihrem Facebook-Konto zuordnen.\n
+\n
+Wenn Sie mit den Plugins interagieren, zum Beispiel auf den „Gefällt mir“ – Button klicken oder einen Kommentar abgeben, wird die entsprechende Information von Ihrem Browser direkt an Facebook übermittelt und dort gespeichert.\n
+\n
+Da diese Übertragung direkt verläuft, erhalten wir keine Kenntnis von den übermittelten Daten. Informationen zu Zweck und Umfang der Datenerhebung durch Facebook, die weitere Verarbeitung und Nutzung der Daten durch Facebook sowie Ihre diesbezüglichen Rechte und Einstellungsmöglichkeiten zum Schutz Ihrer Privatsphäre entnehmen Sie bitte den Datenschutzhinweisen von Facebook unter: http://de-de.facebook.com/privacy/explanation.php\n
+\n
+Verwendung des Google „+1“ Buttons\n
+\n
+Auf unseren Internetseiten ist die „+1“-Schaltfläche des sozialen Netzwerkes „Google +“ eingebunden, welches von der Google Inc., 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA betrieben wird. Der Button ist an dem Zeichen „+1“ erkennbar.\n
+\n
+Wenn Sie eine unserer Webseiten besuchen, die eine solche Schaltfläche enthält, baut Ihr Browser direkt eine Verbindung mit den Servern von Google auf. Der Inhalt der „+1“-Schaltfläche wird von Google direkt an Ihren Browser übermittelt und von diesem in die Webseite eingebunden. Wir haben daher keinen Einfluss auf den Umfang der Daten, die Google mit der Schaltfläche erhebt. Wenn Sie Mitglied bei „Google +“ sind und nicht möchten, dass Google über unseren Internetauftritt gesammelten Daten mit Ihren bei Google gespeicherten Mitgliedsdaten verknüpft, müssen Sie sich vor Ihrem Besuch unseres Internetauftritts bei „Google +“ ausloggen.\n
+\n
+Informationen zu Zweck und Umfang der Datenerhebung, die weitere Verarbeitung und Nutzung der Daten durch Google sowie Ihre diesbezüglichen Rechte und Einstellungsmöglichkeiten zum Schutz Ihrer Privatsphäre entnehmen Sie bitte den Datenschutzhinweisen von Google unter:
+http://www.google.com/intl/de/+/policy/+1button.html.\n
+\n
+Verwendung des Twitter Buttons\n
+\n
+Auf unseren Internetseiten ist die Schaltfläche des Kurznachrichtennetzwerks Twitter eingebunden, welcher von der Twitter Inc., 795 Folsom St., Suite 600, San Francisco, CA 94107 USA betrieben wird. Der Button ist an dem Twitter-Logo erkennbar.\n
+\n
+Wenn Sie eine unserer Webseiten besuchen, die eine solche Schaltfläche enthält, baut Ihr Browser direkt eine Verbindung mit den Servern von Twitter auf.\n
+\n
+Der Inhalt der Twitter-Schaltfläche wird von Twitter direkt an Ihren Browser übermittelt und von diesem in die Webseite eingebunden. Wir haben daher keinen Einfluss auf den Umfang der Daten, die Twitter mit der Schaltfläche erhebt.\n
+\n
+Nähere Informationen zum Datenschutz bei Twitter finden Sie unter: http://twitter.com/privacy\n
+\n
+Wenn Sie die Twitter Schaltfläche anklicken, während Sie mit Ihrem Twitter Account eingeloggt sind, können Sie die Inhalte auf unseren Webseiten mit Ihrem Twitter Profil verlinken. Dadurch kann Twitter den Besuch unserer Seiten Ihrem Benutzerkonto zuordnen.\n
+\n
+Wenn Sie nicht wünschen, dass Twitter den Besuch unserer Webseite Ihrem Twitter-Konto zuordnen kann, loggen Sie sich vor dem Besuch unserer Webseite aus Ihrem Twitter-Konto aus.\n
+\n
+Chat-Funktion auf unserer Facebook-Fanpage für eingeloggte Facebook-Nutzer (Facebook-Bot)\n
+\n
+Sofern Sie als eingeloggter Facebook-Nutzer unsere Fanpage besuchen, haben Sie die Möglichkeit, mit uns über einen Facebook-Bot zu chatten.\n
+\n
+Sofern Sie hiervon Gebrauch machen und mit uns in Kontakt treten, werden aus Ihrem Facebook-Profil folgende Informationen zu Ihrer Person an uns übertragen und in unserer Datenbank gespeichert:\n
+Facebook-Vorname\n
+Ggf. weiter Informationen ergänzen (d.h. bevorzugte Sprache, etc.)\n
+\n
+Neben den von Facebook an uns übertragenen Daten werden auch die Inhalte der  Chat-Kommunikation gespeichert. Bitte achten Sie deshalb auf die von Ihnen im Rahmen der Chat-Kommunikation geteilten Informationen.\n
+\n
+Verwendung des Webanalyse- und Trackingtools Google Analytics und Google Remarketing\n 
+(1) Diese Website benutzt Google Analytics und Google Remarketing, einen Webanalysedienst der Google Inc. („Google“). Google Analytics verwendet sog. „Cookies“, Textdateien, die auf Ihrem Computer gespeichert werden und die eine Analyse der Benutzung der Website durch Sie ermöglichen. Die durch den Cookie erzeugten Informationen über Ihre Benutzung dieser Website werden in der Regel an einen Server von Google in den USA übertragen und dort gespeichert. Im Falle der Aktivierung der IP-Anonymisierung auf dieser Website, wird Ihre IP-Adresse von Google jedoch innerhalb von Mitgliedstaaten der Europäischen Union oder in anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum zuvor gekürzt. Nur in Ausnahmefällen wird die volle IP-Adresse an einen Server von Google in den USA übertragen und dort gekürzt. Im Auftrag des Betreibers dieser Website wird Google diese Informationen benutzen, um Ihre Nutzung der Website auszuwerten, um Reports über die Website-Aktivitäten zusammenzustellen und um weitere mit der Website-Nutzung und der Internetnutzung verbundene Dienstleistungen gegenüber dem Website-Betreiber zu erbringen.\n
+\n
+(2) Die im Rahmen von Google Analytics von Ihrem Browser übermittelte IP-Adresse wird nicht mit anderen Daten von Google zusammengeführt.\n
+\n
+(3) Sie können die Speicherung der Cookies durch eine entsprechende Einstellung Ihrer Browser-Software verhindern; wir weisen Sie jedoch darauf hin, dass Sie in diesem Fall gegebenenfalls nicht sämtliche Funktionen dieser Website voll umfänglich nutzen können.\n
+\n
+(4) Sie können darüber hinaus die Erfassung der durch das Cookie erzeugten und auf Ihre Nutzung der Website bezogenen Daten (inkl. Ihrer IP-Adresse) an Google sowie die Verarbeitung dieser Daten durch Google verhindern, indem sie das unter dem folgenden Link verfügbare Browser-Plugin herunterladen und installieren: https://tools.google.com/dlpage/gaoptout?hl=de\n
+\n
+(5) Diese Website verwendet Google Analytics mit der Erweiterung „_anonymizeIp()“. Dadurch werden IP-Adressen gekürzt weiterverarbeitet, eine direkte Personenbeziehbarkeit kann damit ausgeschlossen werden.\n
+\n
+(6) Die Nutzung von Google Analytics erfolgt in Übereinstimmung mit den Voraussetzungen, auf die sich die deutschen Datenschutzbehörden mit Google verständigten. Informationen des Drittanbieters: Google Dublin, Google Ireland Ltd., Gordon House, Barrow Street, Dublin 4, Ireland, Fax: +353 (1) 436 1001.\n
+\n
+Nutzerbedingungen: http://www.google.com/analytics/terms/de.html, Übersicht zum Datenschutz: http://www.google.com/intl/de/analytics/learn/privacy.html sowie die Datenschutzerklärung: http://www.google.de/intl/de/policies/privacy.\n
+\n
+Verwendung des Webanalyse- und Trackingtools von Roq.ad\n
+\n
+Die Technologie von Roq.ad ermöglicht es, anonymisierte Nutzer über mehrere Geräte (wie z.B. Smartphones, Computer oder Tablets) zu identifizieren. Genutzt werden dabei Browser Cookies, Pixel und Server to Server Verbindungen von Partnernetzwerken. Ziel der Messung ist es u.a., passendere Werbung auszuliefern und dem Verlag bessere Analysedaten Ihrer Seitennutzung zur Verfügung zu stellen.\n
+\n
+Roq.ad’s Technologie unterliegt dabei einer externen Datenschutzkontrolle und dem Kriterienkatalog der ePrivacySeal GmbH.\n
+Dies bedeutet u.a.\n
+1. das Roq.ad’s System auf anonymisierten Datenmessungen basiert\n
+2. das Roq.ad’s Produkt den Anforderungen von Paragraph 11 BDSG hinsichtlich der technischen und organisatorischen Voraussetzungen entspricht.
+\n
+Roq.ad bietet darüber hinaus die Möglichkeit, den Dienst abzubestellen.\n
+Nutzen Sie dafür den Optout Vorgang unter folgendem Link:\n
+https://www.roq.ad/optout/ \n
+\n 
+Facebook Analytics\n
+\n
+Die Heilbronner Stimme nutzt „Facebook Analytics“, einen Analysedienst der Facebook Inc., 1601 S. California Ave, Palo Alto, CA 94304, USA. Der Heilbronner Stimme wird durch die Nutzung von Facebook Analytics eine Analyse der Nutzung der Webseite zu statistischen Zwecke sowie Zwecken der Marktforschung ermöglicht. Durch Facebook Analytics werden Daten von Personen erhoben, die die Webseite der Heilbronner Stimme nutzen. Die Heilbronner Stimme erhält als Betreiber der Webseite die erhobenen Daten in aggregierter und anonymisierter Form. Die intern verwendete Benutzer-ID übermittelt die Heilbronner Stimme an Facebook, welche von Facebook im Regelfall gespeichert wird. Die Daten, die durch Facebook Analytics für Webseiten gesammelt werden, können von der Heilbronner Stimme mit Hilfe der Benutzer-ID in Zusammenhang gebracht werden. Mit Hilfe der von der Heilbronner Stimme übermittelten Benutzer-ID, kann Facebook einzelne Personen nicht identifizieren. Die durch die Verwendung von Facebook Analytics für Webseiten erzeugten Informationen über die Nutzung der Webseite der Heilbronner Stimme werden von Facebook gespeichert und verarbeitet, worüber die Heilbronner Stimme den Nutzer entsprechend ihrem Kenntnisstand unterrichtet. Facebook kann diese Daten mit dem Facebook Konto des Nutzers verbinden und auch für eigene Werbezwecke, entsprechend der Datenverwendungsrichtlinie (https://www.facebook.com/about/privacy) verwenden. Sie haben jederzeit die Möglichkeit den Facebook-Pixel über den folgenden Link zu deaktivieren (hier).\n
+\n
+Facebook Besucheraktions-Pixel\n
+\n
+Innerhalb unseres Internetzauftritts benutzen wir das „Facebook-Pixel“ der Facebook Inc., 1601 South California Ave., Palo Alto, CA 94304, USA. Dabei sind sogenannte Zählpixel auf unseren Seiten integriert. Besuchen Sie unsere Seiten, wird über diese Zählpixel eine direkte Verbindung zwischen Ihrem Browser und dem Facebook-Server hergestellt.\n
+Dadurch erhält Facebook unter anderem Informationen von Ihrem Browser, dass von Ihrem Endgerät unsere Webseite aufgerufen wurde. Wenn Sie Facebook-Nutzer sind, kann Facebook hierdurch den Besuch unserer Seiten Ihrem Benutzerkonto zuordnen. Als Anbieter weisen wir darauf hin, dass wir keine Kenntnis vom Inhalt der übermittelten Daten sowie deren Nutzung durch Facebook erhalten. Wir können jedoch auswählen, welchen Segmenten von Facebook Nutzern (z.B. Alter, Interessen) unsere Werbung angezeigt werden soll.\n
+Wird der Pixel auf Ihrem Browser aufgerufen, kann Facebook außerdem erkennen ob eine Facebook-Werbeanzeige erfolgreich war und beispielsweise zu einem online-Kaufabschluss geführt hat. Hierdurch können wir die Wirksamkeit der Facebook-Werbeanzeigen für statistische sowie Marktforschungszwecke erfassen.\n
+Wir nutzen eine Arbeitsweise, bei welcher keine Datensätze, insbesondere keine E-Mailadressen unserer Nutzer (weder verschlüsselt noch unverschlüsselt) an Facebook übermittelt werden. Sie finden weitere Informationen hierzu unter https://www.facebook.com/about/privacy/.\n
+Wünschen Sie keine Datenerfassung durch Facebook-Pixel klicken Sie bitte hier. Zudem können Sie den Facebook-Pixel alternativ auf der Seite der Digital Advertising Alliance unter dem folgenden Link deaktivieren: http://www.aboutads.info/choices/\n
+\n
+Verwendung von Cookies\n
+\n
+Session Cookies und permanente Cookies\n
+Wir speichern auf Ihrer Festplatte Cookies. Ein Cookie ist eine kleine Textdatei, die Ihr Web-Browser zusammen mit den eigentlich angeforderten Daten aus dem Internet in Ihrem temporären Internet-Zwischenspeicher ablegt, damit alle Benutzerfunktionen über das gesamte Angebot eines Anbieters realisiert werden können. Die Cookies werden nach dem Ende Ihres Besuchs auf unserer Webseite automatisch gelöscht und verlieren damit ihre Gültigkeit.\n
+Besuchen Sie unsere Webseiten erneut, wird ein neues Cookie erstellt.\n
+Neben den zuvor beschriebenen Session-Cookies, verwenden wir auch sog. permanente Cookies, die z. B. die „angemeldet bleiben“-Funktion ermöglichen und die einen wiederkehrenden Benutzer erkennen.\n
+Cookies zur personalisierten Werbung von Drittanbietern\n
+Darüber hinaus greifen wir auch auf Drittanbieter zurück, um personalisierte Werbung beim Besuch unserer Webseite zu generieren. Dabei erfasst der Drittanbieter mittels eines Cookies Informationen über den Besuch unserer Webseite. Auf diesem Wege ist es möglich, die Interessen unserer Nutzer besser zu berücksichtigen und Ihnen Werbung für Waren und Services anzubieten, die Ihren wirklichen Interessen entsprechen. Folgende Drittanbieter-Cookies werden von uns verwendet:\n
+Nugg.ad - Die Datenschutzerklärung von Nugg.ad. können Sie unter:\n
+\n
+http://nugg.ad/de/datenschutz/allgemeine-informationen.html\n
+\n
+abrufen. Zusätzlich haben Sie hier die Möglichkeit das Nugg.ad Cookie auszuschalten.\n
+Plista GmbH - Die Datenschutzerklärung von der Plista GmbH können Sie unter:\n
+\n
+https://www.plista.com/privacy\n
+\n
+abrufen. Zusätzlich haben Sie hier die Möglichkeit das Cookie der Plista GmbH auszuschalten.\n
+ \n
+Double Click - Die Datenschutzerklärung von Double Click können Sie unter:\n
+\n
+http://www.google.de/intl/de/policies/\n
+\n
+abrufen. Zusätzlich haben Sie hier die Möglichkeit das Double Click Cookie auszuschalten.\n
+ \n
+Roq.ad - Die Datenschutzerklärung von Roq.ad können Sie unter:\n
+\n
+https://www.roq.ad/de/privacy/\n
+\n
+abrufen. Zusätzlich haben Sie hier die Möglichkeit das Roq.ad Cookie auszuschalten.\n
+\n
+Skalierbares  Zentrale Messverfahren (SZM)\n
+\n
+Unsere Website nutzt das "Skalierbare Zentrale Messverfahren" (SZM) der Fa. INFOnline für die Ermittlung statistischer Kennwerte zur Nutzung unserer Angebote. Dabei werden anonyme Messwerte erhoben.\n
+Die SZM- Reichweitenmessung verwendet zur Wiedererkennung von Computersystemen alternativ entweder einen Cookie mit der Kennung „ioam.de§ oder "ivwbox.de" oder eine Signatur, die aus verschiedenen automatisch übertragenen Informationen Ihres Computers erstellt wird. IP-Adressen werden in dem Verfahren nicht gespeichert und nur in anonymisierter Form verarbeitet.\n
+Die Reichweitenmessung wurde unter der Beachtung des Datenschutzes entwickelt. Ziel der Reichweitenmessung ist es, die Nutzungsintensität und die Anzahl der Nutzer einer Website statistisch zu bestimmen. Zu keinem Zeitpunkt werden einzelne Nutzer identifiziert. Ihre Identität bleibt immer geschützt. Sie erhalten über das System keine Werbung.\n
+Für Web-Angebote, die Mitglied der Informationsgemeinschaft zur Feststellung der Verbreitung von Werbeträgern e.V. (IVW – www.ivw.eu) sind oder an der Studie "internet facts" der Arbeitsgemeinschaft Online-Forschung e.V. (AGOF – www.agof.de) teilnehmen, werden die Nutzungsstatistiken monatlich von der AGOF und der Arbeitsgemeinschaft Media-Analyse e.V. (ag.ma – www.agma-mmc.de) sowie der IVW veröffentlicht und können unter https://www.agof.de,http://www.agma-mmc.de und http://www.ivw.eueingesehen werden.\n
+Neben der Veröffentlichung von Messdaten überprüft die IVW das SZM-Verfahren regelmäßig im Hinblick auf eine regel- und datenschutzkonforme Nutzung.\n
+Weitere Informationen zum SZM-Verfahren finden Sie auf der Website der INFOnline GmbH (https://www.infonline.de), die das SZM-Verfahren betreibt, der Datenschutzwebsite der AGOF (http://www.agof.de/datenschutz) und der Datenschutzwebsite der IVW (http://www.ivw.eu/datenschutz).\n
+Sie können der Datenverarbeitung durch das SZM unter folgendem Link widersprechen: http://optout.ivwbox.de\n
+ \n
+Brightcove Inc., Boston\n
+Brightcove ist ein führender globaler Anbieter von Clouddiensten für Videos. Die Brightcove-Technologien werden unter anderem eingesetzt, um Ihnen auf Ihre persönlichen Interessen ausgerichtete Videos zu empfehlen und die Zugriffe der Nutzer auf den bereitgestellten Videocontent zu analysieren, um so die Attraktivität und Funktionalität der Webseite zu verbessern. Hierzu verwendet Brightcove Cookies und erhebt gerätebezogene Daten (z.B. Browserinformationen), unter anderem auch die IP-Adressen der Nutzer, die auf den bereitgestellten Videocontent zugreifen. Diese werden unmittelbar nach Abruf pseudonymisiert und nicht personalisiert gespeichert. Sollten Sie Videos über E-Mail mit Ihren Freunden teilen, werden die so von Ihnen mitgeteilten und gespeicherten E-Mail-Adressen automatisch wieder gelöscht.\n
+Nähere Informationen zu Brightcove und die Möglichkeit zur Deaktivierung des Einsatzes von Brightcove finden Sie unter:\n
+http://support.brightcove.com/en/video-cloud/docs/video-cloud-player-cookies\n
+http://support.brightcove.com/en/video-cloud/docs/disabling-video-cloud-cookies-user-basis\n
+ \n
+Hearken\n
+Auf unserer Webseite nutzen wir das Umfragetool der Hearken Inc. („Hearken“). Mit Hearken können Nutzer unserer Webseite Fragen an unsere Redaktion stellen oder Beiträge kommentieren. Anhand der Fragen und Kommentare können wir feststellen, welche Themen die Nutzer unserer Webseite besonders interessieren. Dahingehend können wir die Gestaltung unserer Webseite und die Beiträge, die wir veröffentlichen, verbessern und für den Nutzer interessanter gestalten.\n
+Hearken erhebt Daten ausschließlich dann, wenn der Nutzer das Tool nutzt und seine ausdrückliche Einwilligung erteilt hat. Der Nutzer hat jederzeit das Recht, seine Einwilligung zu widerrufen. Dies kann er per Mail (mail@mail.de) tun.\n
+Erhoben werden Daten wie Name, E-Mailadresse und Postleitzahl, um Zielgruppen erstellen und die Webseite entsprechend der Interessen gestalten zu können. Diese Daten werden an den Server von Hearken übertragen, welcher in den USA steht. Hearken übersendet die von den Nutzern gestellten Fragen in zusammengefasster Form an uns zurück.\n
+Die Datenschutzerklärung von Hearken kann unter folgendem Link eingesehen werden: https://www.wearehearken.com/privacy-policy/\n
+\n 
+Nutzungsbasierte Onlinewerbung\n
+Um Werbung für Sie anhand Ihrer Nutzungsinteressen zu optimieren, haben wir es folgenden Unternehmen gestattet, Nutzungsdaten zu erheben:\n
+\n
+OMS Vermarktungs GmbH & Co. KG,\n
+Zollhof 4,\n
+40221 Düsseldorf\n
+Dieses Unternehmen ist zuständig für die Datenerhebung. Nähere Informationen finden Sie unter:\n
+http://www.oms.eu/cms/nutzungsbasierte-online-werbung.html\n
+Ligatus GmbH\n
+Hohenstaufenring 30-32\n
+D-50674 Köln\n
+Dieses Unternehmen ist zuständig für die Datenerhebung. Nähere Informationen finden Sie unter:\n
+https://www.ligatus.de/datenschutz\n
+Seeding Alliance GmbH\n
+Lichtstr. 25\n
+50825 Köln\n
+Dieses Unternehmen ist zuständig für die Datenerhebung. Nähere Informationen finden Sie unter:\n
+http://seeding-alliance.de/datenschutz/\n
+\n
+Mangelnde Vertraulichkeit der Internetkommunikation\n
+\n
+Bitte beachten Sie, dass bei der Kommunikation über das Internet (z.B. mittels E-Mail) keine vollständige Vertraulichkeit und Datensicherheit gewährleistet ist. Wir empfehlen Ihnen daher bei vertraulichen Informationen den Postweg.\n
+\n
+Auskunftsrecht\n
+\n
+Sie haben das Recht, auf Antrag unentgeltlich Auskunft zu erhalten, welche Daten über Sie gespeichert sind und zu welchem Zweck die Speicherung erfolgt. Zusätzlich haben Sie das Recht auf Berichtigung unrichtiger Daten sowie auf Sperrung und Löschung, soweit die Speicherung unzulässig oder nicht mehr erforderlich ist.\n
+\n
+Kontaktmöglichkeit\n
+\n
+Sollten Sie weitergehende Fragen rund um das Thema Datenschutz haben, wenden Sie sich bitte an: datenschutz@stimme.de\n
+Oder aber schriftlich an:\n
+\n
+Heilbronner Stimme GmbH & Co. KG\n
+Kennwort: Datenschutz\n
+Allee 2\n
+74072 Heilbronn\n
+]]></string>
+
+    <string name="STR_DEBUG_SCREEN">Debug Screen</string>
+    <string name="STR_DEBUG_TEXT_NEWS">Test News(Text)</string>
+    <string name="STR_DEBUG_PICTURE_NEWS">Test News(Picture)</string>
+    <string name="STR_DEBUG_VIDEO_NEWS">Test News(Video)</string>
+    <string name="STR_DEBUG_TEST_NEWS">Test News</string>
+    <string name="STR_DEBUG_NEWS_TITLE">Test News</string>
+    <string name="STR_DEBUG_TEXT_NEWS_TITLE">Test News with Text</string>
+    <string name="STR_DEBUG_PICTURE_NEWS_TITLE">Test News(Picture)</string>
+    <string name="STR_DEBUG_VIDEO_NEWS_TITLE">Test News(Video)</string>
+    <string name="STR_DEBUG_NEWS_SUMMARY">This is a News containing content for Debug purposes</string>
+    <string name="STR_DEBUG_TEXT_NEWS_SUMMARY">This is a News containing Text for Debug purposes</string>
+    <string name="STR_DEBUG_PICTURE_NEWS_SUMMARY">This is a News containing a Picture for Debug purposes</string>
+    <string name="STR_DEBUG_VIDEO_NEWS_SUMMARY">This is a News containing a Video for Debug purposes</string>
+
+    <string name="STR_DEBUG_TEXT_NEWS_CONTENT">
+        <![CDATA[
+            <p>Material is the metaphor.</p>
+            <p>&nbsp;</p>
+            <p>&nbsp;</p>
+            <p>A material metaphor is the unifying theory of a rationalized space and a system of motion. The material is grounded in tactile reality, inspired by the study of paper and ink, yet technologically advanced and open to imagination and magic.</p>
+            <p>&nbsp;</p>
+            <p>Surfaces and edges of the material provide visual cues that are grounded in reality. The use of familiar tactile attributes helps users quickly understand affordances. Yet the flexibility of the material creates new affordances that supercede those in the physical world, without breaking the rules of physics.</p>
+            <p>&nbsp;</p>
+            <p>The fundamentals of light, surface, and movement are key to conveying how objects move, interact, and exist in space and in relation to each other. Realistic lighting shows seams, divides space, and indicates moving parts.</p>
+            <p>&nbsp;</p>
+            <p>&nbsp;</p>
+            <p>Bold, graphic, intentional.</p>
+            <p>&nbsp;</p>
+            <p>&nbsp;</p>
+            <p>The foundational elements of print based design typography, grids, space, scale, color, and use of imagery guide visual treatments. These elements do far more than please the eye. They create hierarchy, meaning, and focus. Deliberate color choices, edge to edge imagery, large scale typography, and intentional white space create a bold and graphic interface that immerse the user in the experience.</p>
+            <p>&nbsp;</p>
+            <p>An emphasis on user actions makes core functionality immediately apparent and provides waypoints for the user.</p>
+            <p>&nbsp;</p>
+            <p>&nbsp;</p>
+            <p>Motion provides meaning.</p>
+            <p>&nbsp;</p>
+            <p>&nbsp;</p>
+            <p>Motion respects and reinforces the user as the prime mover. Primary user actions are inflection points that initiate motion, transforming the whole design.</p>
+            <p>&nbsp;</p>
+            <p>All action takes place in a single environment. Objects are presented to the user without breaking the continuity of experience even as they transform and reorganize.</p>
+            <p>&nbsp;</p>
+            <p>Motion is meaningful and appropriate, serving to focus attention and maintain continuity. Feedback is subtle yet clear. Transitions are efﬁcient yet coherent.</p>
+        ]]>
+    </string>
+    <string name="STR_DEBUG_PICTURE_NEWS_CONTENT">
+        <![CDATA[
+            <p>hallo frühling</p>
+            <p>&nbsp;</p>
+            <p>
+                <img class=\"alignnone size-medium wp-image-6\" src=\"http://gdni.sic.software.w0123d63.kasserver.com/wp-content/uploads/2017/03/27211559hw-225x300.jpg\" alt=\"\" width=\"225\" height=\"300\" srcset=\"http://gdni.sic.software.w0123d63.kasserver.com/wp-content/uploads/2017/03/27211559hw-225x300.jpg 225w, http://gdni.sic.software.w0123d63.kasserver.com/wp-content/uploads/2017/03/27211559hw-768x1024.jpg 768w, http://gdni.sic.software.w0123d63.kasserver.com/wp-content/uploads/2017/03/27211559hw.jpg 800w\" sizes=\"(max-width: 225px) 100vw, 225px\" />
+            </p>
+            <p>&nbsp;</p>
+            <p>mit Bild</p>
+        ]]>
+    </string>
+    <string name="STR_DEBUG_VIDEO_NEWS_CONTENT">
+        <![CDATA[
+            <p>Ein Testvideo</p>
+            <div style=\"width: 525px;\" class=\"wp-video\">
+                <video class=\"wp-video-shortcode\" id=\"video-67-1\" width=\"525\" height=\"295\" preload=\"metadata\" controls=\"controls\"><source type=\"video/mp4\" src=\"http://gdni.sic.software.w0123d63.kasserver.com/wp-content/uploads/2017/04/trailer.mp4?_=1\" /><a href=\"http://gdni.sic.software.w0123d63.kasserver.com/wp-content/uploads/2017/04/trailer.mp4\">http://gdni.sic.software.w0123d63.kasserver.com/wp-content/uploads/2017/04/trailer.mp4</a></video>
+            </div>
+        ]]>
+    </string>
+
+    <string name="STR_REGISTRATION_HEADER_TEXT_VIEW_TEXT">Registrierung</string>
+    <string name="STR_REGISTRATION_SUB_HEADER_TEXT_VIEW_TEXT">
+<![CDATA[
+Liebe Nutzerin und lieber Nutzer,\n
+\n
+herzlichen Dank für Ihre Teilnahme an unserem News-Projekt Beefeed. Unter allen Teilnehmern verlosen wir ein iPad Pro. Um an der Verlosung teilzunehmen, bitten wir Sie um Angabe Ihres Alters und Ihrer Emailadresse. Beide Daten werden selbstverständlich vertraulich behandelt! Die Datenerhebung in der App erfolgt getrennt von der hier abgefragten Emailadresse, sodass eine anonyme Auswertung gewährleistet ist.\n
+\n
+Bei unserer App handelt es sich um ein Testprojekt, zur besseren Analyse der Ergebnisse hilft es uns, wenn Sie uns Ihren Berufsstand angeben. Alle Angaben sind freiwillig.\n
+\n
+Haben Sie Fragen oder weitergehendes Interesse an diesem Projekt? Dann freuen wir uns über eine Email an info@mms.hn. Vielen Dank für Ihre Unterstützung,\n
+\n
+Ihr Beefeed-News-Team.\n
+]]>
+    </string>
+    <string name="STR_REGISTRATION_EMAIL_ADDRESS_EDIT_TEXT_HINT">E-Mail Adresse</string>
+    <string name="STR_REGISTRATION_AGE_EDIT_TEXT_HINT">Alter</string>
+    <string name="STR_REGISTRATION_REGISTER_BUTTON_TEXT">Registrieren</string>
+    <string name="STR_REGISTRATION_ACCEPT_TERMS_OF_USE">Ich akzeptiere die Nutzungsbedingugen</string>
+    <string name="STR_VERSION_NUMBER">Version number</string>
+    <string name="STR_LAST_NEWS">Letzte Nachricht:</string>
+    <string name="STR_TICKER_NOTIFICATION_TEXT">Neue Nachricht</string>
+    <string name="STR_START_STOP_USER_SIMULATION">dbg! Start/Stop user simulation</string>
+    <string name="STR_START_STOP_NEWS_SIMULATION">dbg! Start/Stop news simulation</string>
+    <string name="STR_START_STOP_TURBO_POLLING">dbg! Start/Stop TurboPolling</string>
+    <string name="STR_START_CHANGE_ALGORITHM">dbg! Change Algorithm</string>
+    <string name="STR_TO_WEBSITE">To Website</string>
+
+    <string name="STR_LOADING_VIDEO">Lädt Video…</string>
+    <string name="label_job">Tätigkeit</string>
+    <string-array name="jobs">
+        <item>Schüler/Student</item>
+        <item>Berufstätig</item>
+        <item>Rentner</item>
+        <item>sonstiges</item>
+    </string-array>
+</resources>
