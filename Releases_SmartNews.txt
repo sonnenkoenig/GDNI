@@ -1,0 +1,40 @@
+[-------------------------]
+Version 2017-08-31 (v0.1.7) versionCode 14
+    #24594 - Ungeklärte Abstürze - Fehler bei Zugrif auf Netzwekstatus aubgefangen
+    #24599 - java.lang.SecurityException: in TelephonyManager.getAllCellInfo - abgefangen
+    #24601 -  NumberFormatException in CalendarEventIntentService
+    Hinweistext in About view ergänzt
+
+[-------------------------]
+Version 2017-07-20 (v0.1.6) versionCode 13
+    Hinweistext Registrierung
+
+[-------------------------]
+Version 2017-07-14 (v0.1.5) versionCode 12
+    Datenschutzerklärung
+
+[-------------------------]
+Version 2017-07-12 (v0.1.4) versionCode 11
+    neues App Icon
+
+[-------------------------]
+Version 2017-05-03 (v0.1.3) versionCode 10
+    Registrierungsdaten an Server senden
+
+[-------------------------]
+Version 2017-04-25 (v0.1.2) versionCode 9
+    fixed UiEvent.Action.RECEIVED & REPLACED
+
+[-------------------------]
+Version 2017-04-25 (v0.1.1) versionCode 8
+    Optimierung Video Anzeige
+    log UiEvent.Action.RECEIVED
+
+[-------------------------]
+Version 2017-04-19 (v0.1.0) versionCode 7
+    beta - zum Internen Test
+
+[-------------------------]
+Version 2017-01-25 (v0.0.0)
+    initial Playground
+

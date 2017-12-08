@@ -1,0 +1,54 @@
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="software.sic.droid.google_dni.ui.activities.MainActivity">
+
+    <item
+        android:id="@+id/id_debug_screen"
+        android:orderInCategory="100"
+        android:title="@string/STR_DEBUG_SCREEN"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/debug_text_news"
+        android:orderInCategory="300"
+        android:title="@string/STR_DEBUG_TEXT_NEWS"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/debug_picture_news"
+        android:orderInCategory="400"
+        android:title="@string/STR_DEBUG_PICTURE_NEWS"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/debug_video_news"
+        android:orderInCategory="500"
+        android:title="@string/STR_DEBUG_VIDEO_NEWS"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/id_start_stop_news_simulation"
+        android:orderInCategory="600"
+        android:title="@string/STR_START_STOP_NEWS_SIMULATION"/>
+    <item
+        android:id="@+id/id_start_stop_user_simulation"
+        android:orderInCategory="700"
+        android:title="@string/STR_START_STOP_USER_SIMULATION"/>
+    <item
+        android:id="@+id/id_start_stop_turbo_polling"
+        android:orderInCategory="800"
+        android:title="@string/STR_START_STOP_TURBO_POLLING"/>
+    <item
+        android:id="@+id/id_change_algorithm"
+        android:orderInCategory="900"
+        android:title="@string/STR_START_CHANGE_ALGORITHM"/>
+
+    <item
+        android:id="@+id/id_menu_entry_registration"
+        android:orderInCategory="1000"
+        android:title="dbg! Registration"
+        tools:ignore="HardcodedText"/>
+
+</menu>
